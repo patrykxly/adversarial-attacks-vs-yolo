@@ -1,3 +1,10 @@
+# YOLO network stuff
+annotations/
+configs/
+JPEGImages/
+*.weights
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -113,12 +120,6 @@ ipython_config.py
 #   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
 #   in version control.
 #   https://pdm.fming.dev/latest/usage/project/#working-with-version-control
-
-annotations/
-configs/
-JPEGImages/
-*.weights
-*.pt
 
 .pdm.toml
 .pdm-python
